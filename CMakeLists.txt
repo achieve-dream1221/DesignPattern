@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(DesignPattern)
+set(CMAKE_CXX_STANDARD 26)
+add_subdirectory(CreationPattern)
+add_subdirectory(StructuralPattern)
+add_subdirectory(BehavioralPattern)
